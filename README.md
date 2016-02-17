@@ -22,7 +22,6 @@ const encodeBase58 = require('encode-base58')
 
 encodeBase58(9); // => 'a'
 encodeBase58.emojis(9); // => '🔆'
-//=> return something
 ```
 
 ## License

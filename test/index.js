@@ -11,6 +11,6 @@ describe('encode-58', function () {
   })
 
   it('emojis', function () {
-    encode.emojis(9).should.be.equal('🔆')
+    encode.emojis(9).should.be.equal('g')
   })
 })
