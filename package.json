@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/Kikobeats/encode-base58/issues"
   },
-  "keywords": [],
+  "keywords": ["base58", "encode", "emojis", "simple"],
   "dependencies": {},
   "devDependencies": {
     "coffee-script": "latest",
