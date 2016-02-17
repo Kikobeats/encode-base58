@@ -1,0 +1,35 @@
+{
+  "name": "encode-base58",
+  "description": "Simple method to encode a Number using base58.",
+  "homepage": "https://github.com/Kikobeats/encode-base58",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "repository": "Kikobeats/encode-base58",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/encode-base58/issues"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "latest",
+    "git-dirty": "latest",
+    "mocha": "latest",
+    "should": "latest",
+    "standard": "latest"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "lint": "standard lib",
+    "pretest": "npm run lint",
+    "test": "mocha"
+  },
+  "license": "MIT"
+}
