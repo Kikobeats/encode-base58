@@ -2,18 +2,26 @@
   "name": "encode-base58",
   "description": "Simple method to encode a Number using base58.",
   "homepage": "https://github.com/Kikobeats/encode-base58",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./index.js",
   "author": {
-    "email": "josefrancisco.verdu@gmail.com",
     "name": "Kiko Beats",
+    "email": "josefrancisco.verdu@gmail.com",
     "url": "https://github.com/Kikobeats"
   },
-  "repository": "Kikobeats/encode-base58",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikobeats/encode-base58.git"
+  },
   "bugs": {
     "url": "https://github.com/Kikobeats/encode-base58/issues"
   },
-  "keywords": ["base58", "encode", "emojis", "simple"],
+  "keywords": [
+    "base58",
+    "emojis",
+    "encode",
+    "simple"
+  ],
   "dependencies": {},
   "devDependencies": {
     "coffee-script": "latest",
