@@ -2,7 +2,7 @@
 
 'use strict'
 
-const should = require('should')
+require('should')
 const encode = require('..')
 
 describe('encode-58', function () {
