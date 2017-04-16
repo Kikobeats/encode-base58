@@ -10,7 +10,7 @@ describe('encode-58', function () {
     encode(9).should.be.equal('a')
   })
 
-  it('emojis', function () {
-    encode.emojis(9).should.be.equal('🔆')
+  it('emoji', function () {
+    encode.emoji(9).should.be.equal('🔆')
   })
 })

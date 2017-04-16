@@ -1,7 +1,7 @@
 'use strict'
 
 const alphabet = require('./mime')
-const alphabetEmoji = require('./emojis')
+const alphabetEmoji = require('./emoji')
 
 function encode (alphabet, base) {
   return function (num) {
@@ -21,4 +21,4 @@ function encode (alphabet, base) {
 }
 
 module.exports = encode(alphabet, alphabet.length)
-module.exports.emojis = encode(alphabetEmoji, alphabetEmoji.length)
+module.exports.emoji = encode(alphabetEmoji, alphabetEmoji.length)

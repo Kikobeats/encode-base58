@@ -20,8 +20,8 @@ $ npm install encode-base58 --save
 ```js
 const encodeBase58 = require('encode-base58')
 
-encodeBase58(9); // => 'a'
-encodeBase58.emojis(9); // => '🔆'
+encodeBase58(9) // => 'a'
+encodeBase58.emoji(9) // => '🔆'
 ```
 
 ## License
