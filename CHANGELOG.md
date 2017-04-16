@@ -1,3 +1,11 @@
+<a name="2.0.0"></a>
+# 2.0.0 (2017-04-16)
+
+* Fix emojis → emoji ([80583a1](https://github.com/kikobeats/encode-base58/commit/80583a1))
+* Update travis builds ([bbb03eb](https://github.com/kikobeats/encode-base58/commit/bbb03eb))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2016-02-17)
 

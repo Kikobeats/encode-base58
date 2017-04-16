@@ -2,11 +2,11 @@
   "name": "encode-base58",
   "description": "Simple method to encode a Number using base58.",
   "homepage": "https://github.com/Kikobeats/encode-base58",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "./index.js",
   "author": {
-    "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
     "url": "https://github.com/Kikobeats"
   },
   "repository": {
