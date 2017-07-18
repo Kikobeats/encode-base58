@@ -1,7 +1,5 @@
 # encode-base58
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/encode-base58.svg)](https://greenkeeper.io/)
-
 ![Last version](https://img.shields.io/github/tag/Kikobeats/encode-base58.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/encode-base58/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/encode-base58)
 [![Dependency status](http://img.shields.io/david/Kikobeats/encode-base58.svg?style=flat-square)](https://david-dm.org/Kikobeats/encode-base58)
